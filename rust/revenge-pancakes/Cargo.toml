@@ -1,0 +1,6 @@
+[package]
+name = "revenge-pancakes"
+version = "0.1.0"
+authors = ["Amós Rivera <me@amosrivera.com>"]
+
+[dependencies]
